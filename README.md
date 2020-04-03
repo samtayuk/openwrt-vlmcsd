@@ -1,3 +1,3 @@
 OpenWrt repository for vlmcsd
 ========
-Binaries built from this repository on 2018-12-08 can be downloaded from http://cokebar.github.io/openwrt-vlmcsd/tree/gh-pages
+Binaries built from this repository on 2020-04-03 can be downloaded from http://travis.github.io//tree/gh-pages
